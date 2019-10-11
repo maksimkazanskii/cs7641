@@ -2,7 +2,7 @@
 # Gatech, CS7641.
 
 
-The link to the code: https://github.com/maksimkazanskii/CS7641/tree/master/assignment2
+The link to the code: https://github.com/maksimkazanskii/cs7641/tree/master/assignment2
 
 ## Getting Started and Installation
 
